@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "günlükk",
+    "IsDeleted": false,
+    "AddDate": {
+      "$date": "2022-02-13T17:04:23.493Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "6207b86aeaeae9a758e77164",
+    "Name": "kategori-v2",
+    "IsDeleted": false,
+    "AddDate": "2022-02-12T13:38:50.351Z",
+    "__v": 0
+  },
+  {
+    "_id": "6207b86aeaeae9a758e77164",
+    "Name": "kategori-v3",
+    "IsDeleted": false,
+    "AddDate": "2022-02-12T13:38:50.351Z",
+    "__v": 0
+  }
+]
